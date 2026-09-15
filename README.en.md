@@ -16,10 +16,7 @@
 
 ### 🚀 About me
 
-- 💻 Web developer with **2 years of experience** on production PHP/Symfony projects
-- 🎓 Currently in intensive training at **42** (algorithms, C, Python, project management)
-- 🔍 Available immediately for a full-stack web developer position
-- 🛠️ Comfortable across the whole dev cycle: design, testing, documentation, deployment
+Web developer (2 years of experience in apprenticeship, PHP) currently in intensive training at **42**. Available immediately for a full-stack position.
 
 ---
 
@@ -84,20 +81,17 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" />
 </p>
 
-### 💼 Experience
+---
 
-**PHP Web Developer (apprenticeship)** — Jymeo, Nantes — *2022 – 2024*
-- Complete technical rebuild of quelpneu.com (design, development, deployment)
-- Development and maintenance of PHP/Symfony features across several internal projects
-- Contributed to architecture decisions within an agile team
+### 📌 Projects
+
+- **Coming soon**
 
 ---
 
-### 🎓 Education
+### 💼 Background
 
-- **42 Luxembourg, Belval** — Software Engineer program (Piscine + core curriculum) — *2025 – present*
-- **OpenClassrooms** — PHP/Symfony Application Developer (RNCP level 6) — *2022 – 2024*
-- **Le Wagon, Nantes** — Web Application Designer/Developer (RNCP level 6) — *2022*
+2 years as a PHP developer apprentice · Trained at **OpenClassrooms**, **Le Wagon**, and currently **42**
 
 ---
 

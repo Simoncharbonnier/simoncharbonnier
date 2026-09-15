@@ -16,10 +16,7 @@
 
 ### 🚀 À propos de moi
 
-- 💻 Développeur web avec **2 ans d'expérience** en alternance sur des projets PHP/Symfony en production
-- 🎓 Actuellement en formation intensive à **42** (algorithmique, C, Python, gestion de projet)
-- 🔍 Disponible immédiatement pour un poste de développeur web full-stack
-- 🛠️ À l'aise sur tout le cycle de dev : conception, tests, documentation, mise en production
+Développeur web (2 ans d'expérience en alternance, PHP) actuellement en formation intensive à **42**. Disponible immédiatement pour un poste full-stack.
 
 ---
 
@@ -84,20 +81,17 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" />
 </p>
 
-### 💼 Expérience
+---
 
-**Développeur web PHP (alternance)** — Jymeo, Nantes — *2022 – 2024*
-- Refonte technique complète du site quelpneu.com (conception, développement, mise en production)
-- Développement et maintenance de fonctionnalités PHP/Symfony sur plusieurs projets internes
-- Contribution aux choix d'architecture en équipe agile
+### 📌 Projets
+
+- **En cours de développement**
 
 ---
 
-### 🎓 Formation
+### 💼 Parcours
 
-- **42 Luxembourg, Belval** — Cursus développeur (piscine + tronc commun) — *2025 – en cours*
-- **OpenClassrooms** — Développeur d'applications PHP/Symfony (RNCP niveau 6) — *2022 – 2024*
-- **Le Wagon, Nantes** — Concepteur-Développeur d'applications web (RNCP niveau 6) — *2022*
+2 ans d'alternance dev PHP · Formé chez **OpenClassrooms**, **Le Wagon** et actuellement **42**
 
 ---
 
